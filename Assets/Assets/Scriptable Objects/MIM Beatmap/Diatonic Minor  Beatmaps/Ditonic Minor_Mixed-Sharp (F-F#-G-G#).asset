@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 888cb6b6d852192408a005bd4c74a0a0, type: 3}
+  m_Name: Ditonic Minor_Mixed-Sharp (F-F#-G-G#)
+  m_EditorClassIdentifier: 
+  sequenceList:
+  - {fileID: 11400000, guid: 2f969e40c8fb33a49b1a0c83a00c52eb, type: 2}
+  - {fileID: 11400000, guid: 1316cdf61b2a2884fb07b989913c7c32, type: 2}
+  - {fileID: 11400000, guid: 4ebccdd7caacc82498e29793a54b21b4, type: 2}
+  - {fileID: 11400000, guid: 450fdbf0a22b9504c8ed4c94480d87b9, type: 2}

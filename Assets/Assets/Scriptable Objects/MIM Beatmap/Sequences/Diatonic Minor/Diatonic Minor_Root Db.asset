@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90e3edda2ee2a394dbe9aa1a83b9b8ce, type: 3}
+  m_Name: Diatonic Minor_Root Db
+  m_EditorClassIdentifier: 
+  rootKey: {fileID: 11400000, guid: b5559d2165bd91a4db7dff3929d943a7, type: 2}
+  intervalType: 1
+  keyList:
+  - {fileID: 11400000, guid: b5559d2165bd91a4db7dff3929d943a7, type: 2}
+  - {fileID: 11400000, guid: 382b9467dee0eb040b8199e048c4e89f, type: 2}
+  - {fileID: 11400000, guid: 4f2397a664c55324f848bc7e94b712b9, type: 2}
+  - {fileID: 11400000, guid: 6cf56d9bc9ebe354ebbd1e08e8203833, type: 2}
+  - {fileID: 11400000, guid: 950aa626003cce44fa5cfd8f2e3c07cf, type: 2}
+  - {fileID: 11400000, guid: 687df5226d4eafa4bac5f5923bae6a48, type: 2}
+  - {fileID: 11400000, guid: 8fea6830f187f424492f56a964ff88b0, type: 2}
+  - {fileID: 11400000, guid: b5559d2165bd91a4db7dff3929d943a7, type: 2}
+  additionalKeyList:
+  - {fileID: 11400000, guid: 26e135879e8d8a84eb3da7c9339c87d0, type: 2}
+  - {fileID: 11400000, guid: 1e56cbe4f5b5fa443830878900588940, type: 2}
+  - {fileID: 11400000, guid: 9a7a6af74bbc5894584013727fb2ff71, type: 2}

@@ -1,0 +1,4872 @@
+{
+  "header": {
+    "songTitle": "Bungong Jeumpa",
+    "songAuthor": "Ibrahim Abduh",
+    "gameMode": "chordmaster",
+    "fileAuthor": "Anton M",
+    "saveFilename": "-",
+    "audioFilename": "-",
+    "stylePresetIndex": 3
+  },
+  "data": {
+    "maxBlock": 2,
+    "BPM": 138,
+    "offset": 22300,
+    "keySet": [
+      {
+        "isDefaultKeySet": true,
+        "eventId": "default",
+        "keys": [
+          "Dm",
+          "A7",
+          "A",
+          "Bb",
+          "C",
+          "F",
+          "Gm"
+        ]
+      },
+      {
+        "isDefaultKeySet": false,
+        "eventId": "minorScale",
+        "keys": [
+          "C",
+          "Dm",
+          "Em",
+          "F",
+          "G",
+          "Am",
+          "Bm"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "LPB": 8,
+        "num": 20,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 58,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 58,
+        "block": 0,
+        "key": "A7",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 82,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 82,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 134,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 134,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 157,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 157,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 195,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 195,
+        "block": 0,
+        "key": "A7",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 224,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 224,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 256,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 294,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 397,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 397,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 417,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 417,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 464,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 464,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 569,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 569,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 591,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 591,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 620,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 638,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 679,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 679,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 720,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 720,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 762,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 762,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 802,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 805,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 847,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 805,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 847,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 848,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 889,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 890,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 909,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 890,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 909,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 910,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 932,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 932,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 976,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 984,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 994,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 994,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1004,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1004,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1014,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1014,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1024,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1024,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1061,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1061,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1071,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1071,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1080,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1080,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1089,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1089,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1099,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1099,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1119,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1136,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1154,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1136,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1154,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1155,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1174,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1174,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1192,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1192,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1209,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1210,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1228,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1210,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1228,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1229,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1247,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1247,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1266,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1283,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1302,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1302,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1319,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1320,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1340,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1320,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1340,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1357,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1375,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1375,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1391,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1392,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1420,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1392,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1420,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1429,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1447,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1447,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1464,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1465,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1498,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1465,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1498,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1500,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1517,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1518,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1534,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1535,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1570,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1570,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1605,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1606,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1618,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1606,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1618,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1619,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1623,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1623,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1627,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1627,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1631,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1631,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1635,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1635,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1640,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1641,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1652,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1641,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1652,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1653,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1657,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1657,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1661,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1661,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1665,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1665,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1669,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1669,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1673,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1674,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1685,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1674,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1685,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1686,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1690,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1690,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1694,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1694,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1698,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1698,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1702,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1702,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1706,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1707,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1739,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1707,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1739,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1740,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1751,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1740,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1751,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1752,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1756,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1756,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1760,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1760,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1764,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1764,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1768,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1768,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1772,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1773,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1785,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1773,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1785,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1786,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1790,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1790,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1794,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1794,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1798,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1798,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1802,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1802,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1806,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1807,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1821,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1822,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1837,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1822,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1837,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1838,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1870,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1871,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1882,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1871,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1882,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1883,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1887,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1887,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1891,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1891,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1895,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1895,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1899,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1899,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1903,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1904,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1915,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1904,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1915,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1916,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1920,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1920,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1924,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1924,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1928,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1928,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1931,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1931,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1935,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1936,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1950,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1950,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1966,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1967,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1998,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1967,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 1998,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 1999,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2011,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2011,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2031,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2031,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2043,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2043,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2063,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2063,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2079,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2079,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2083,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2083,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2087,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2087,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2091,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2091,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2094,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2095,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2108,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2095,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2108,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2126,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2159,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2159,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2192,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2192,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2225,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2225,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2258,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2258,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2267,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2267,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2275,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2275,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2283,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2283,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2291,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2291,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2300,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2300,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2308,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2308,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2316,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2324,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2339,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2324,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2339,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2340,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2356,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2340,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2356,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2357,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2381,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2390,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2421,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2421,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2455,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2455,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2487,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2487,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2521,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2521,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2552,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2552,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2584,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2585,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2617,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2585,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2617,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2618,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2634,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2651,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2663,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2664,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2685,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2664,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2685,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2686,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2697,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2698,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2719,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2698,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2719,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2720,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2727,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2728,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2735,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2736,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2743,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2744,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2751,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2752,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2759,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2760,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2767,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2768,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2775,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2776,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2783,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2784,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2791,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2792,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2799,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2800,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2807,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2808,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2815,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2816,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2823,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2816,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2823,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2824,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2831,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2824,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2831,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2832,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2839,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2832,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2839,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2840,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2847,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2840,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2847,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2848,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2855,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2856,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2863,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2864,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2871,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2872,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2879,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2880,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2887,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2888,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2895,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2896,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2903,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2904,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2911,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2912,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2919,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2920,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2927,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2928,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2935,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2936,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2943,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2944,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2951,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2952,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2959,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2960,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2967,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2968,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2974,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2975,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2982,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2975,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2982,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2983,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2990,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2983,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2990,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2991,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2998,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2991,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 2998,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2999,
+        "block": 1,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3006,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 2999,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3006,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3007,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3014,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3015,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3022,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3023,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3030,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3031,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3038,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3039,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3046,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3039,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3046,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3047,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3054,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3047,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3054,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3055,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3062,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3055,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3062,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3063,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3070,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3063,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3070,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3071,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3078,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3079,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3086,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3087,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3094,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3095,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3102,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3103,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3110,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3103,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3110,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3111,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3118,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3111,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3118,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3119,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3126,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3119,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3126,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3127,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3134,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3127,
+        "block": 1,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3134,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3135,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3142,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3143,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3150,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3151,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3158,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3159,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3166,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3167,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3174,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3167,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3174,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3175,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3182,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3175,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3182,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3183,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3190,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3183,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3190,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3191,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3198,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3191,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3198,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3199,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3206,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3207,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3214,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3215,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3222,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3223,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3230,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3232,
+        "block": 0,
+        "key": "F",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3261,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3262,
+        "block": 0,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3293,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3262,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3293,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3294,
+        "block": 1,
+        "key": "C",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3325,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3326,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3356,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3326,
+        "block": 0,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3356,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3357,
+        "block": 0,
+        "key": "Bb",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3388,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3388,
+        "block": 1,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3420,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3420,
+        "block": 0,
+        "key": "A",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3451,
+            "block": 0,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      },
+      {
+        "LPB": 8,
+        "num": 3451,
+        "block": 1,
+        "key": "Dm",
+        "eventTrigger": "null",
+        "type": 2,
+        "notes": [
+          {
+            "LPB": 8,
+            "num": 3480,
+            "block": 1,
+            "key": "C",
+            "eventTrigger": "null",
+            "type": 2,
+            "notes": []
+          }
+        ]
+      }
+    ]
+  }
+}

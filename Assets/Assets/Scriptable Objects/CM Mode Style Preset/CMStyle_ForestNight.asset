@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a392455de925666458dbd1d2fc853ff8, type: 3}
+  m_Name: CMStyle_ForestNight
+  m_EditorClassIdentifier: 
+  gameBackgroundImageObj: {fileID: 3753586520691579033, guid: 5632bd1f6f1e8604d9a04e60b23eb571, type: 3}
+  noteMaterial: {fileID: 2100000, guid: 251dbd5295d8c5e41bf16ceacf863d72, type: 2}
+  noteTextMaterial: {fileID: 2100000, guid: 0a93ee64a865b05428850df3e0ca7cbc, type: 2}
+  globalParticleObj: {fileID: 5901888426334842514, guid: f027c1075e5f50043a5f982fdaf39d0b, type: 3}
+  noteStartContentTextSpriteColor: {r: 0.30588236, g: 0.92941177, b: 1, a: 1}
+  noteStartContentTextSpriteHDRColor: {r: 23.968624, g: 23.968624, b: 23.968624, a: 1}
+  noteStartContentBackgroundSpriteColor: {r: 0, g: 0.27450982, b: 0.5411765, a: 1}
+  noteSpriteColor: {r: 0.13333334, g: 0.3254902, b: 0.41568628, a: 1}
+  noteMaterialHDRColor: {r: 0, g: 216.79611, b: 294.4544, a: 1}
+  globalParticleHDRColor: {r: 1, g: 0, b: 0, a: 1}
+  beatSpriteColor: {r: 0, g: 0.58431375, b: 0.8862745, a: 1}
+  beatMeasureSpriteColor: {r: 0, g: 1, b: 0.76862746, a: 1}
+  laneColor: {r: 0.12941177, g: 0.4117647, b: 0.5254902, a: 0.6117647}
+  lanePressIndicatorColor: {r: 0.12941177, g: 0.4117647, b: 0.5254902, a: 0.6117647}
+  lanePressIndicatorHDRColor: {r: 0, g: 3.2512445, b: 274.55167, a: 1}
+  laneSpark: {r: 1, g: 1, b: 1, a: 1}
+  laneSparkHDRColor: {r: 0, g: 1, b: 0.4234047, a: 1}
+  laneSparkColorOverTime:
+    serializedVersion: 2
+    key0: {r: 0, g: 1, b: 0.7909639, a: 1}
+    key1: {r: 0, g: 1, b: 0.034485817, a: 1}
+    key2: {r: 0, g: 0, b: 0, a: 0}
+    key3: {r: 0, g: 0, b: 0, a: 0}
+    key4: {r: 0, g: 0, b: 0, a: 0}
+    key5: {r: 0, g: 0, b: 0, a: 0}
+    key6: {r: 0, g: 0, b: 0, a: 0}
+    key7: {r: 0, g: 0, b: 0, a: 0}
+    ctime0: 0
+    ctime1: 65535
+    ctime2: 0
+    ctime3: 0
+    ctime4: 0
+    ctime5: 0
+    ctime6: 0
+    ctime7: 0
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_ColorSpace: -1
+    m_NumColorKeys: 2
+    m_NumAlphaKeys: 2
+  gamepadNormalColor: {r: 0.23773581, g: 0.23773581, b: 0.23773581, a: 1}
+  gamepadPressColor: {r: 1, g: 1, b: 1, a: 1}
+  gamepadTextColor: {r: 1, g: 1, b: 1, a: 1}
+  gameUITextXColor: {r: 1, g: 1, b: 1, a: 1}

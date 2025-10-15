@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdb18ce993bc05041b3a4e38067dd0f2, type: 3}
+  m_Name: A
+  m_EditorClassIdentifier: 
+  keySprite: {fileID: 21300000, guid: 28b60f7c66b71504ba5ca76613df658e, type: 3}
+  keyName: A
+  keyGuitarSfxClip: {fileID: 8300000, guid: 737d67b7c7c64574c994a21d4b56b017, type: 3}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - beat
+  - beatMeasure
+  - beatSub
+  - note
+  - antispam
+  - scorenote
+  - beatSubHit
+  - Despawn
+  - drop
+  - slot
+  - noteEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: beats
+    uniqueID: 4225731421
+    locked: 0
+  - name: notes
+    uniqueID: 2922305889
+    locked: 0
+  - name: top
+    uniqueID: 2421132899
+    locked: 0

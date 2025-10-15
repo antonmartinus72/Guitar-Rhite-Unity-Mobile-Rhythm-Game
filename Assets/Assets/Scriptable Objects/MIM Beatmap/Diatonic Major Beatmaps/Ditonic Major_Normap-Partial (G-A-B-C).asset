@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 888cb6b6d852192408a005bd4c74a0a0, type: 3}
+  m_Name: Ditonic Major_Normap-Partial (G-A-B-C)
+  m_EditorClassIdentifier: 
+  sequenceList:
+  - {fileID: 11400000, guid: 976fe8b1ac9e38d409c385a423521155, type: 2}
+  - {fileID: 11400000, guid: 7adfc3d3ab7d4394cb9b5006cb5d247c, type: 2}
+  - {fileID: 11400000, guid: fc5a4eea256810a4e84166ff62f88d1d, type: 2}
+  - {fileID: 11400000, guid: 1d393f2da55727e4fa3560dfee88c4af, type: 2}

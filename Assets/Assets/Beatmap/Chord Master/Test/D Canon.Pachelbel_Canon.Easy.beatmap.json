@@ -1,0 +1,170 @@
+{
+  "header": {
+    "songTitle": "D Canon",
+    "songAuthor": "Pachelbel Canon",
+    "gameMode": "chordmaster",
+    "fileAuthor": "Anton M",
+    "saveFilename": "Canon.Pachelbel_Canon.Easy.savefile.json",
+    "audioFilename": "Canon.Pachelbel_Canon.wav"
+  },
+  "data": {
+    "maxBlock": 4,
+    "BPM": 60,
+    "offset": -2400,
+    "notes": [
+    {
+      "LPB": 4,
+      "num": 0,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 1,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 4,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 4,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 8,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 8,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 12,
+      "block": 1,
+      "type": 2,
+      "notes": [
+        {
+          "LPB": 4,
+          "num": 16,
+          "block": 1,
+          "type": 2,
+          "notes": []
+        }
+      ]
+    },
+    {
+      "LPB": 4,
+      "num": 24,
+      "block": 1,
+      "type": 2,
+      "notes": [
+        {
+          "LPB": 4,
+          "num": 28,
+          "block": 1,
+          "type": 2,
+          "notes": []
+        }
+      ]
+    },
+    {
+      "LPB": 4,
+      "num": 32,
+      "block": 1,
+      "type": 2,
+      "notes": [
+        {
+          "LPB": 4,
+          "num": 36,
+          "block": 1,
+          "type": 2,
+          "notes": []
+        }
+      ]
+    },
+    {
+      "LPB": 4,
+      "num": 33,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 40,
+      "block": 1,
+      "type": 2,
+      "notes": [
+        {
+          "LPB": 4,
+          "num": 44,
+          "block": 1,
+          "type": 2,
+          "notes": []
+        }
+      ]
+    },
+    {
+      "LPB": 4,
+      "num": 40,
+      "block": 2,
+      "type": 2,
+      "notes": [
+        {
+          "LPB": 4,
+          "num": 44,
+          "block": 2,
+          "type": 2,
+          "notes": []
+        }
+      ]
+    },
+    {
+      "LPB": 4,
+      "num": 48,
+      "block": 1,
+      "type": 2,
+      "notes": [
+        {
+          "LPB": 4,
+          "num": 52,
+          "block": 1,
+          "type": 2,
+          "notes": []
+        },
+        {
+          "LPB": 4,
+          "num": 54,
+          "block": 1,
+          "type": 2,
+          "notes": []
+        },
+        {
+          "LPB": 4,
+          "num": 56,
+          "block": 1,
+          "type": 2,
+          "notes": []
+        }
+      ]
+    }
+  ]
+  }
+}

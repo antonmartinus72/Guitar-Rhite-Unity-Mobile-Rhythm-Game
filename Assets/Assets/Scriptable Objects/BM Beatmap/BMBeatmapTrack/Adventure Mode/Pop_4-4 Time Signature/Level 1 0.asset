@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a9814a6f28a8e54ebe714ee749a6863, type: 3}
+  m_Name: Level 1 0
+  m_EditorClassIdentifier: 
+  noteSprite: {fileID: -20184234, guid: 4377e83516d2fae4b9dda6e5eebff600, type: 3}
+  isTransitionTrack: 0
+  beatTrackPattern: 0100000000000000000000000000000000000000000000000000000000000000

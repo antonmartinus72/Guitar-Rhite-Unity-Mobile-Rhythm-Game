@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6263a309754fc648b3f6f373e2f862e, type: 3}
+  m_Name: Waltz_3-4 Time Signature_Level 4
+  m_EditorClassIdentifier: 
+  showInLevelSelector: 1
+  musicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+  musicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+  musicTransitionAudioFileA: {fileID: 8300000, guid: 89c52226086eed24aac4f6545617ef86, type: 3}
+  musicTransitionAudioFileB: {fileID: 8300000, guid: 064bb8e6b559f744eac7160b58c2a0f1, type: 3}
+  title: Waltz Level 4, 3/4 Time Signature
+  musicBpm: 110
+  timeSignatureType: 1
+  beatsPerTrack: 3
+  shownBeatPointsPerMeasure: 3
+  listenTrackMeasureLength: 1
+  captureTrackMeasureLength: 1
+  trackList:
+  - track: {fileID: 11400000, guid: c15f9f1dc75330c40b480c1a634391e2, type: 2}
+    trackBPM: 110
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: ee86c0066bc461340b06cf35986da53c, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 8300000, guid: 4383a0d80b04ebc4886ed51b312d725d, type: 3}
+    customMusicTransitionAudioFileB: {fileID: 8300000, guid: 5ba67672d07efb843b5e2bf939a43407, type: 3}
+  - track: {fileID: 11400000, guid: c15f9f1dc75330c40b480c1a634391e2, type: 2}
+    trackBPM: 110
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: 04c5bea0e5365d746a4a65bc2f975259, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 8300000, guid: 89c52226086eed24aac4f6545617ef86, type: 3}
+    customMusicTransitionAudioFileB: {fileID: 8300000, guid: 064bb8e6b559f744eac7160b58c2a0f1, type: 3}
+  - track: {fileID: 11400000, guid: dffdd8751a2a90d49827f7d618e5dfb8, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: ee86c0066bc461340b06cf35986da53c, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: cf1711b73ff75fd4f8a5c72b2ee84028, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: 04c5bea0e5365d746a4a65bc2f975259, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: 6e5e025edd151d847a8118d814ee07f7, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: ee86c0066bc461340b06cf35986da53c, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: 518b744b7016c054d886208e5e329a02, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: 04c5bea0e5365d746a4a65bc2f975259, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: c15f9f1dc75330c40b480c1a634391e2, type: 2}
+    trackBPM: 90
+    customMusicNormalAudioFileA: {fileID: 0}
+    customMusicNormalAudioFileB: {fileID: 0}
+    customMusicTransitionAudioFileA: {fileID: 8300000, guid: 4383a0d80b04ebc4886ed51b312d725d, type: 3}
+    customMusicTransitionAudioFileB: {fileID: 8300000, guid: 5ba67672d07efb843b5e2bf939a43407, type: 3}
+  - track: {fileID: 11400000, guid: c15f9f1dc75330c40b480c1a634391e2, type: 2}
+    trackBPM: 90
+    customMusicNormalAudioFileA: {fileID: 0}
+    customMusicNormalAudioFileB: {fileID: 0}
+    customMusicTransitionAudioFileA: {fileID: 8300000, guid: 89c52226086eed24aac4f6545617ef86, type: 3}
+    customMusicTransitionAudioFileB: {fileID: 8300000, guid: 064bb8e6b559f744eac7160b58c2a0f1, type: 3}
+  - track: {fileID: 11400000, guid: dffdd8751a2a90d49827f7d618e5dfb8, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: ee86c0066bc461340b06cf35986da53c, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: cf1711b73ff75fd4f8a5c72b2ee84028, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: 04c5bea0e5365d746a4a65bc2f975259, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: 6e5e025edd151d847a8118d814ee07f7, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: ee86c0066bc461340b06cf35986da53c, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: 518b744b7016c054d886208e5e329a02, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: 04c5bea0e5365d746a4a65bc2f975259, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: c15f9f1dc75330c40b480c1a634391e2, type: 2}
+    trackBPM: 120
+    customMusicNormalAudioFileA: {fileID: 0}
+    customMusicNormalAudioFileB: {fileID: 0}
+    customMusicTransitionAudioFileA: {fileID: 8300000, guid: 4383a0d80b04ebc4886ed51b312d725d, type: 3}
+    customMusicTransitionAudioFileB: {fileID: 8300000, guid: 5ba67672d07efb843b5e2bf939a43407, type: 3}
+  - track: {fileID: 11400000, guid: c15f9f1dc75330c40b480c1a634391e2, type: 2}
+    trackBPM: 120
+    customMusicNormalAudioFileA: {fileID: 0}
+    customMusicNormalAudioFileB: {fileID: 0}
+    customMusicTransitionAudioFileA: {fileID: 8300000, guid: 89c52226086eed24aac4f6545617ef86, type: 3}
+    customMusicTransitionAudioFileB: {fileID: 8300000, guid: 064bb8e6b559f744eac7160b58c2a0f1, type: 3}
+  - track: {fileID: 11400000, guid: dffdd8751a2a90d49827f7d618e5dfb8, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: ee86c0066bc461340b06cf35986da53c, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: cf1711b73ff75fd4f8a5c72b2ee84028, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: 04c5bea0e5365d746a4a65bc2f975259, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: 6e5e025edd151d847a8118d814ee07f7, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: b10ebf13cf95f904cba86ffaecc6b8f3, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: ee86c0066bc461340b06cf35986da53c, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}
+  - track: {fileID: 11400000, guid: 518b744b7016c054d886208e5e329a02, type: 2}
+    trackBPM: 0
+    customMusicNormalAudioFileA: {fileID: 8300000, guid: 04c5bea0e5365d746a4a65bc2f975259, type: 3}
+    customMusicNormalAudioFileB: {fileID: 8300000, guid: 8b3ce819a873f8c479eb713f9938bfb3, type: 3}
+    customMusicTransitionAudioFileA: {fileID: 0}
+    customMusicTransitionAudioFileB: {fileID: 0}

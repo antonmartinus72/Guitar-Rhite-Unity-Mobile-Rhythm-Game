@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 8d0c8182de27b604a9a1552283031d91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_0
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3205
+        width: 430
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646efc38b41d7db448f3a0c5d7e4a65e
+      internalID: 896070844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 3231
+        width: 268
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2594804160a2b49a139ff00cedeb3e
+      internalID: -1552790237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 3230
+        width: 267
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f6f5d32c25c454a9b5b4b6e2bc4749
+      internalID: 1631358673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_3
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3234
+        width: 270
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c55dd29557e6847a3e5e7dbd06441d
+      internalID: 526084992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2548
+        width: 393
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158152b1144c4104d9fc9a3a3fe440b5
+      internalID: -181664370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2573
+        width: 310
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ea8a4ba0d2387438cdc5c7397e0532
+      internalID: -341560647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 2574
+        width: 301
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c48027055a5bd4d88db612dcdbfa52
+      internalID: -965477649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2572
+        width: 349
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b90473e0b24f1a4c87f22d0c6895e73
+      internalID: 1251389982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1889
+        width: 500
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e214fc93eb7eb0c498b976417e46c191
+      internalID: 1832001834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1914
+        width: 406
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5fca6633027a646b2f59f36a08bd92
+      internalID: -752233036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_2
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1912
+        width: 405
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd81ae7264fc184bb62d54d59957b5c
+      internalID: 1618803452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_3
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1915
+        width: 410
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201031a232e39f24181ce919d4a56963
+      internalID: -802988327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1227
+        width: 763
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b103d02549df1d419bef21e991467e7
+      internalID: -1604288141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_1
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1255
+        width: 510
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c361371c023c54aad3c51406b566de
+      internalID: 1162862062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_2
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1256
+        width: 622
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648dc2a3a8aa39645af8373876b6299e
+      internalID: -1908417350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_3
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1250
+        width: 636
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97990077efdffa1438d1942302786e52
+      internalID: -619399220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 566
+        width: 748
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686fab2cf749a134f9a109e143e2bdb1
+      internalID: 343419214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_1
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 588
+        width: 542
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b772954e7584b49814594511af4906
+      internalID: -2034514198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_2
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 591
+        width: 553
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d40eee9a8d094da524ec0360ff901
+      internalID: 1920223183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_3
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 594
+        width: 651
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d2423d8c72a064a8979f841bd97282
+      internalID: -494786732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_0: 896070844
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_1: -1552790237
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_2: 1631358673
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV1_3: 526084992
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_0: -181664370
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_1: -341560647
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_2: -965477649
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV2_3: 1251389982
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_0: 1832001834
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_1: -752233036
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_2: 1618803452
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV3_3: -802988327
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_0: -1604288141
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_1: 1162862062
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_2: -1908417350
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV4_3: -619399220
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_0: 343419214
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_1: -2034514198
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_2: 1920223183
+      For Musical Adventure (6-8 Time Signature_77 BPM)_LV5_3: -494786732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
