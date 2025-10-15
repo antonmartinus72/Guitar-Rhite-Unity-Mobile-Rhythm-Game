@@ -7,7 +7,8 @@
 ## 🛠️ Setup
 
 ### Prerequisites
-- **Unity 2022.3.27f1 (other major version not guaranted to work properly)** 
+- **Unity 2022.3.27f1** (Recommended)
+  - Other versions may exhibit compatibility issues
 
 ### Opening the Project
 1. Clone this repository.
