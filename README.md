@@ -4,6 +4,16 @@
 
 **Guitar Rhite** is a rhythm game specifically designed for mobile users. The game features several play modes and was originally developed for educational purposes.
 
+## 🛠️ Setup
+
+### Prerequisites
+- **Unity 2022.3.27f1 (other major version not guaranted to work properly)** 
+
+### Opening the Project
+1. Clone this repository.
+2. Open the project folder in Unity Hub.
+3. All compilation and build processes can be handled within the Unity Editor.
+
 ## 🎵 Disclaimer: Project Status & Audio Assets
 
 ### Non-Commercial Educational Project
